@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "aternos_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "topib.aternos.me:56164",
+    "port": 56164,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "type /shop and /money!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "disscord.gg/N6ZpCyenFB",
     "events": {
       "connect": true,
       "disconnect": true,
